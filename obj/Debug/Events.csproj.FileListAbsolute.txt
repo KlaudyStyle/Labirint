@@ -1,0 +1,8 @@
+D:\Студент\Волков Плотникова\Events\bin\Debug\Events.exe.config
+D:\Студент\Волков Плотникова\Events\bin\Debug\Events.exe
+D:\Студент\Волков Плотникова\Events\bin\Debug\Events.pdb
+D:\Студент\Волков Плотникова\Events\obj\Debug\Events.csproj.AssemblyReference.cache
+D:\Студент\Волков Плотникова\Events\obj\Debug\Events.csproj.SuggestedBindingRedirects.cache
+D:\Студент\Волков Плотникова\Events\obj\Debug\Events.csproj.CoreCompileInputs.cache
+D:\Студент\Волков Плотникова\Events\obj\Debug\Events.exe
+D:\Студент\Волков Плотникова\Events\obj\Debug\Events.pdb
